@@ -1,0 +1,9 @@
+config\DatabaseConnection.class
+model\Instrumento.class
+dao\InstrumentoDAOImpl.class
+com\mycompany\proyectocrud\v2\TestConexion.class
+com\mycompany\proyectocrud\v2\ProyectoCrudV2.class
+config\DatabaseConnectionPool.class
+service\InstrumentoServiceImpl.class
+service\GenericService.class
+dao\GenericDAO.class
